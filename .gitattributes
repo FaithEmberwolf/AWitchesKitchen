@@ -1,0 +1,2 @@
+\#[[:space:]]Visual[[:space:]]Studio[[:space:]]2015[[:space:]]user[[:space:]]specific[[:space:]]files[[:space:]]*.vs/ filter=lfs diff=lfs merge=lfs -text
+*.slo filter=lfs diff=lfs merge=lfs -text
